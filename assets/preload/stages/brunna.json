@@ -1,0 +1,201 @@
+{
+	"camera_boyfriend": [
+		-155,
+		0
+	],
+	"_editorMeta": {
+		"boyfriend": "bf brunna",
+		"dad": "brunna",
+		"gf": "gf"
+	},
+	"boyfriend": [
+		755,
+		75
+	],
+	"girlfriend": [
+		400,
+		130
+	],
+	"stageUI": "normal",
+	"defaultZoom": 0.9,
+	"objects": [
+		{
+			"x": -1152,
+			"y": -642,
+			"scale": [
+				1.55,
+				1.35
+			],
+			"image": "Background Brunna/711 Sem Título_20250611211259",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "ceu",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -226,
+			"y": -22,
+			"scale": [
+				0.65,
+				0.65
+			],
+			"image": "Background Brunna/711 Sem Título_20250611211312",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "folhas",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -121,
+			"y": -31,
+			"scale": [
+				0.6,
+				0.65
+			],
+			"image": "Background Brunna/711 Sem Título_20250611211349",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "tronco",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -291,
+			"y": -203,
+			"scale": [
+				0.8,
+				0.8
+			],
+			"image": "Background Brunna/711 Sem Título_20250611211354",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "chao",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"x": -1134,
+			"y": -277,
+			"scale": [
+				0.9,
+				0.9
+			],
+			"image": "Background Brunna/711 Sem Título_20250611211401",
+			"flipX": true,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sombrabrunna",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 0.9,
+			"type": "sprite"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"x": -615,
+			"y": -382,
+			"scale": [
+				1,
+				1
+			],
+			"image": "Background Brunna/711 Sem Título_20250611211406",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sombrabf",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 0.9,
+			"type": "sprite"
+		},
+		{
+			"type": "boyfriend"
+		},
+		{
+			"x": -697,
+			"y": -167,
+			"scale": [
+				1,
+				1
+			],
+			"image": "Background Brunna/711 Sem Título_20250611211411",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "luz",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 0.6,
+			"type": "sprite"
+		}
+	],
+	"camera_girlfriend": [
+		680,
+		500
+	],
+	"camera_speed": 1,
+	"directory": "",
+	"opponent": [
+		100,
+		100
+	],
+	"camera_opponent": [
+		150,
+		5
+	],
+	"hide_girlfriend": true
+}
