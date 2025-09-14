@@ -1,0 +1,32 @@
+{
+	"storyName": "Vs. Brunna Maria",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "brunna",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Brunny",
+			"brunna",
+			[
+				195,
+				0,
+				135
+			]
+		]
+	],
+	"weekCharacters": [
+		"BrunnaMenu",
+		"BfBrunnaMenu",
+		"gfnone"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "WeekBM"
+}
